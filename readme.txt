@@ -1,1 +1,3 @@
-this is a simple read me file to test git
+this is a simple readme file to test git
+just adding some changes
+
